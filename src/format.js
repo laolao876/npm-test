@@ -14,4 +14,4 @@ const Format = {
       .replace(/^/, `${symbol}`),
 };
 
-export default Format;
+module.exports =  Format;

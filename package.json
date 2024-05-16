@@ -20,11 +20,9 @@
   "bugs": {
     "url": "https://github.com/laolao876/npm-test/issues"
   },
+  "homepage": "https://github.com/laolao876/npm-test#readme",
   "dependencies": {
-    //运行依赖
   },
   "devDependencies": {
-    //开发依赖
-  },
-  "homepage": "https://github.com/laolao876/npm-test#readme"
+  }
 }
